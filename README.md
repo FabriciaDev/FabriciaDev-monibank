@@ -11,3 +11,6 @@
 ## Tecnologias utilizadas no projeto
 * HTML
 * CSS
+
+
+https://docs.google.com/document/d/1DcBdI-fUzPnPllz-ylarOO1xftR3Ky0iYd_y4qvaYzg/edit?usp=sharing
